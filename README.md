@@ -6,7 +6,7 @@ Font-Significance provides visual representations of p-values using custom fonts
 
 ## What is it about?
 
-Instead of reporting p-values from statistical tests as raw numbers (which are hard to read), why not 
+Instead of reporting p-values as raw numbers (which are hard to read), why not 
 represent them visually?
 
 **Step 1.** Convert numerical p-values into categories [a-e].

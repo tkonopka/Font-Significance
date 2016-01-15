@@ -18,7 +18,7 @@ a, b, c, d, e - vines with hanging grapes
 
 ## Examples
 
-
+<img src="https://raw.githubusercontent.com/tkonopka/Font-Significance/master/Significance-Grapes/Showcase-Grapes.png" width=220"/>
 
 
 
