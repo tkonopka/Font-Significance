@@ -79,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -115,7 +115,7 @@
              x="71.419785"
              y="143.49103"
              style="font-size:16px;text-align:end;text-anchor:end"
-             id="tspan3025">(d,ce+</tspan><tspan
+             id="tspan3025">(d,fe+</tspan><tspan
              sodipodi:role="line"
              x="71.419785"
              y="163.49103"
@@ -142,7 +142,7 @@
              x="128.63617"
              y="143.71759"
              id="tspan3047"
-             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Significance-Trees;-inkscape-font-specification:Significance-Trees Medium">(d,ce+</tspan><tspan
+             style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Significance-Trees;-inkscape-font-specification:Significance-Trees Medium">(d,fe+</tspan><tspan
              sodipodi:role="line"
              x="128.63617"
              y="163.71759"

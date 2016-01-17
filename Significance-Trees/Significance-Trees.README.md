@@ -7,7 +7,7 @@ The font contains glyphs designed to convey results of statistical significance 
 
 ## Glyphs
 
-a, b, c, d, e - baseline with trees of various heights
+a, b, c, d, e, f - baseline with trees of various heights
 
 () - end markers
 

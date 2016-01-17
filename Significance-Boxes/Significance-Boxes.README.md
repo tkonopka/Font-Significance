@@ -7,9 +7,9 @@ The font contains glyphs designed to convey results of statistical significance 
 
 ## Glyphs
 
-a, b, c, d, e - boxes with diagonal lines, kerning set for disjoint boxes
+a, b, c, d, e, f - boxes with diagonal lines, kerning set for disjoint boxes
 
-A, B, C, D, E - boxes with diagonal lines, kerning set for overlapping boxes
+A, B, C, D, E, F - boxes with diagonal lines, kerning set for overlapping boxes
 
 
 ## Examples

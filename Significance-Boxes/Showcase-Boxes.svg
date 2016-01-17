@@ -64,8 +64,8 @@
      showgrid="false"
      inkscape:window-width="1223"
      inkscape:window-height="1229"
-     inkscape:window-x="613"
-     inkscape:window-y="119"
+     inkscape:window-x="266"
+     inkscape:window-y="116"
      inkscape:window-maximized="0"
      fit-margin-top="5"
      fit-margin-right="5"
@@ -79,7 +79,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -118,7 +118,7 @@
                style="font-size:16px;text-align:end;text-anchor:end"
                y="143.49103"
                x="71.419785"
-               sodipodi:role="line">(BCE)</tspan><tspan
+               sodipodi:role="line">(BFE)</tspan><tspan
                id="tspan3029"
                style="font-size:16px;text-align:end;text-anchor:end"
                y="163.49103"
@@ -145,7 +145,7 @@
                id="tspan3047"
                y="147.76959"
                x="128.63617"
-               sodipodi:role="line">(BCE)</tspan><tspan
+               sodipodi:role="line">(BFE)</tspan><tspan
                style="font-size:16px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;text-anchor:start;font-family:Significance-Trees;-inkscape-font-specification:Significance-Trees Medium"
                id="tspan3051"
                y="171.82161"

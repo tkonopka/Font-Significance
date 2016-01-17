@@ -9,7 +9,7 @@ Font-Significance provides visual representations of p-values using custom fonts
 Instead of reporting p-values as raw numbers (which are hard to read), why not 
 represent them visually?
 
-**Step 1.** Convert numerical p-values into categories [a-e].
+**Step 1.** Convert numerical p-values into categories [a-f].
 
 **Step 2.** Display the categories visually by using a Font-Significance font (see examples).
 
@@ -20,10 +20,10 @@ A suggestion for p-value thresholds for each category:
 |----------| ------- |
 a | p >= 0.05 |
 b | p < 0.05 |
-c | p < 0.005 |
-d | p < 0.0005 |
-e | p < 0.00005 |
-
+c | p < 0.01 |
+d | p < 0.001 |
+e | p < 0.0001 |
+f | p < 0.00001 |
 
 &nbsp;
 

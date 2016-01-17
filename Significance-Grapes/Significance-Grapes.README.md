@@ -7,7 +7,7 @@ The font contains glyphs designed to convey results of statistical significance 
 
 ## Glyphs
 
-a, b, c, d, e - vines with hanging grapes
+a, b, c, d, e, f - vines with hanging grapes
 
 () - end markers
 
